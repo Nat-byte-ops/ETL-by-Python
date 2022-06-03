@@ -15,7 +15,7 @@
 * Use the built in logging module
 * Save the transformed data in a ready-to-load format which data engineers/analysts/scientists can use to load the data (eg. into an RDBMS)
 
-## The Python notebook file contains specific tasks such as 
+## The Python notebook files contains specific tasks such as 
 * extracting data from different file formats
-* collecting data through APIs and webscraping
+* collecting data through APIs and webscraping -- 
 * transforming the collected data into a ready-to-load format
