@@ -15,6 +15,9 @@
 * Use the built in logging module
 * Save the transformed data in a ready-to-load format which data engineers/analysts/scientists can use to load the data (eg. into an RDBMS)
 
+
+![Screen Shot 2022-06-04 at 6 51 06 pm](https://user-images.githubusercontent.com/85088636/171992023-04157ae8-0214-4670-b126-349939c038b1.png)
+
 ## The Python notebook files contains specific tasks such as 
 * extracting data from different file formats
 * collecting data through APIs and webscraping -- 
